@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- 可以不配置 -->
+    <settings>
+        <!-- 配置允許懶加載 -->
+        <setting name="lazyLoadingEnabled" value="true"/>
+        <!-- 取消關聯查詢 -->
+        <setting name="aggressiveLazyLoading" value="false"/>
+        <!-- 哪些方法會觸發關係查詢 -->
+        <setting name="lazyLoadTriggerMethods" value="clone"/>
+    </settings>
+    <!-- 配置别名 -->
+    <typeAliases>
+        <typeAlias type="com.hzh.mvc.entity.User" alias="User"></typeAlias>
+    </typeAliases>
+</configuration>
