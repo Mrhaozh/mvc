@@ -26,6 +26,6 @@ public class UserController {
         return users;
     }
     public void test(){
-
+        int a=1;
     }
 }
