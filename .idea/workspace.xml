@@ -6,76 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d2caeb0-6f51-4f75-b612-3567f0dcbdb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzh/mvc/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzh/mvc/dao/UserDaoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzh/mvc/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzh/mvc/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzh/mvc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserDaoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/user/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hzh/mvc/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hzh/mvc/dao/UserDaoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hzh/mvc/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hzh/mvc/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hzh/mvc/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserDaoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/com/hzh/mvc/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/com/hzh/mvc/dao/UserDaoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/com/hzh/mvc/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/com/hzh/mvc/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/com/hzh/mvc/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/mapper/UserDaoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/classes/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/druid-1.1.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/fastjson-1.2.68.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/mybatis-3.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/mybatis-spring-2.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/slf4j-api-2.0.0-alpha1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-beans-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-core-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-jcl-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-jdbc-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-orm-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-tx-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/user/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mvc/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/App.class" afterDir="false" />
-    </list>
+    <list default="true" id="3d2caeb0-6f51-4f75-b612-3567f0dcbdb4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -347,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588734115856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="github test commit">
+      <created>1588736980281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588736980281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -377,12 +324,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21518000" />
+    <option name="totallyTimeSpent" value="21777000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="0" width="1313" height="869" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27301338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27301338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -396,13 +352,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39939487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947233" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32947233" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32947233" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32980332" />
       <window_info anchor="bottom" id="Spring" order="15" weight="0.32980332" />
@@ -490,13 +446,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="114" column="17" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -637,6 +586,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>

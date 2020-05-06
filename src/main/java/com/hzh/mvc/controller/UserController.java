@@ -25,4 +25,7 @@ public class UserController {
         String users = JSON.toJSONString(userService.listUsers());
         return users;
     }
+    public void test(){
+
+    }
 }
